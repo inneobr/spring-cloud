@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src=".github/preview.png" alt="" />
+  <img src=".github/eureka-cloud.png" alt="" />
 </p>
 
 ## Tecnologias
