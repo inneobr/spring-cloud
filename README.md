@@ -20,7 +20,7 @@ Projeto desenvolvido em:
 -- JAVA
 -- SPRIG BOOT
 
-## memo: Licença
+## Licença
 
 Esse projeto esta sob a licença MIT.
 
