@@ -2,11 +2,11 @@
 
 <p align="center">Ambiente completo spring cloud</p>
 
-<p align="center">
-  <a href="https://youtu.be/OQS8Mn0l_4U?si=oxCF43PKeD6Ur5yS" target="_blank">Eureka cloud</a>
-  <a href="#" target="_blank">Projetos</a>
-  <a href="#" target="_blank">Layouts</a>
-</p>
+<ul align="center"> 
+   <li><a href="https://youtu.be/OQS8Mn0l_4U?si=oxCF43PKeD6Ur5yS" target="_blank">Eureka cloud</a></li>
+   <li><a href="#" target="_blank">Projetos</a></li>
+   <li><a href="#" target="_blank">Layouts</a></li>
+</ul>
 
 <p align="center">
   <img src=".github/eureka-cloud.png" alt="" />
