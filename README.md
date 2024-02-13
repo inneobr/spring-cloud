@@ -11,7 +11,7 @@
 </ul>
 
 <p align="center">
-  <img src=".github/eureka-cloud.png" alt="" />
+  <img src=".github/ecossistema-spring.png" alt="" />
 </p>
 
 ## Tecnologias
