@@ -3,9 +3,10 @@
 <p align="center">Ambiente completo spring cloud</p>
 
 <ul align="center"> 
-   <li><a href="https://youtu.be/OQS8Mn0l_4U?si=oxCF43PKeD6Ur5yS" target="_blank">Eureka cloud</a></li>
-   <li><a href="#" target="_blank">Projetos</a></li>
-   <li><a href="#" target="_blank">Layouts</a></li>
+   <li><a href="#" target="_blank">LINKEDIN EDUARDO CRUZ</a></li><br />
+   <li><a href="https://youtu.be/OQS8Mn0l_4U?si=oxCF43PKeD6Ur5yS" target="_blank">ECOSSISTEMA SPRING BOOT || AULA 01 || EUREKA-SERVER</a></li>
+   <li><a href="#" target="_blank">ECOSSISTEMA SPRING BOOT || AULA 02 || GATEWAY-SERVER</a></li>
+   <li><a href="#" target="_blank">ECOSSISTEMA SPRING BOOT || AULA 03 || CONFIG-SERVER</a></li>
 </ul>
 
 <p align="center">
