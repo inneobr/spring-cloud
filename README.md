@@ -27,11 +27,3 @@ Esse projeto esta sob a licença MIT.
 <p align="center">
 Feito com ❤ por INNEO.ORG
 </p>
-
-<style>
-   ul, li, a {
-     align="center"
-     text-decoration-line: none;
-     list-style-type: none;
-   }
-</style>
