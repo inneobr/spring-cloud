@@ -17,11 +17,8 @@
 ## Tecnologias
 
 Projeto desenvolvido em:
--- HTML
--- CSS
--- Figma
--- javaScript
--- Git e GitHub
+-- JAVA
+-- SPRIG BOOT
 
 ## memo: Licença
 
