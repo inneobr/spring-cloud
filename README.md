@@ -2,8 +2,8 @@
 
 <p align="center">Ambiente completo spring cloud</p>
 
-<ul style="list-style: none;"> 
-   <li><a href="[#](https://www.linkedin.com/in/eduardokruz/)" target="_blank">LINKEDIN EDUARDO CRUZ</a></li>
+<ul > 
+   <li style="text-decoration-line: none"><a href="[#](https://www.linkedin.com/in/eduardokruz/)" target="_blank">LINKEDIN EDUARDO CRUZ</a></li>
    <br /><hr /> <br />
    <li><a href="https://youtu.be/OQS8Mn0l_4U?si=oxCF43PKeD6Ur5yS" target="_blank">ECOSSISTEMA SPRING BOOT || AULA 01 || EUREKA-SERVER</a></li>
    <li><a href="#" target="_blank">ECOSSISTEMA SPRING BOOT || AULA 02 || GATEWAY-SERVER</a></li>
